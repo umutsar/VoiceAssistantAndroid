@@ -24,3 +24,14 @@ In the **Node.js** project directory, run the following commands to install the 
 npm install express
 npm install cors
 npm install @google/generative-ai
+```
+
+### 2. Install Python Dependencies
+
+In the Python environment, install the following dependencies using pip:
+
+```bash
+pip install requests
+pip install SpeechRecognition
+pip install pyaudio
+```
